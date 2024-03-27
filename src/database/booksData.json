@@ -1,0 +1,53 @@
+{
+	"1000": {
+		"bookId": 1000,
+		"bookName": "Dora vin payanangal",
+		"author": "dora",
+		"borrowedRecord": [
+			{
+				"userId": 1001,
+				"borrowedDate": "27/03/2024",
+				"returnDate": "27/03/2024"
+			}
+		],
+		"available": true
+	},
+	"1001": {
+		"bookId": 1001,
+		"bookName": "Harry potter",
+		"author": "john",
+		"borrowedRecord": [
+			{
+				"userId": 1001,
+				"borrowedDate": "27/03/2024",
+				"returnDate": "27/05/2024"
+			}
+		],
+		"available": true
+	},
+	"1002": {
+		"bookId": 1002,
+		"bookName": "Hunter",
+		"author": "jack",
+		"borrowedRecord": [
+			{
+				"userId": 1002,
+				"borrowedDate": "27/03/2024",
+				"returnDate": "27/06/2024"
+			},
+			{
+				"userId": 1001,
+				"borrowedDate": "27/04/2024",
+				"returnDate": "27/04/2024"
+			}
+		],
+		"available": true
+	},
+	"1003": {
+		"bookId": 1003,
+		"bookName": "Ben 10",
+		"author": "ben",
+		"borrowedRecord": [],
+		"available": true
+	}
+}

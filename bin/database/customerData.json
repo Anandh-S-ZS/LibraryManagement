@@ -1,0 +1,28 @@
+{
+	"1001": {
+		"userId": 1001,
+		"userName": "boots",
+		"password": "boots",
+		"mailId": "boots",
+		"myDue": 0,
+		"currentBookId": 0,
+		"bookHistory": [
+			1001,
+			1000,
+			1002
+		],
+		"currentBook": 0
+	},
+	"1002": {
+		"userId": 1002,
+		"userName": "dora",
+		"password": "dora",
+		"mailId": "dora",
+		"myDue": 0,
+		"currentBookId": 0,
+		"bookHistory": [
+			1002
+		],
+		"currentBook": 0
+	}
+}
